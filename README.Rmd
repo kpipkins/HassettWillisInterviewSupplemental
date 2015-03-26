@@ -9,7 +9,7 @@ output: html_document
 In an effort to help Hassett Willis and Company (HWC) understand the capabilities of applicants for data-centric roles, we often ask for examples of past work. In some instances, past work is not publically available or the candidates may simply not have examples readily on hand. In these cases, we ask applicants to take a look at a sample data set and generate a few different products to showcase their capabilities. Using the sample data set here, please provide responses to the following:
 
 1. Tell us something you find interesting about the data.
-2. Create two visualizations and provide explanations for why you chose them.
+2. Create two simple visualizations and provide explanations for why you chose them.
 3. With regards to data processing, what do you see that you might change? Complete some transformations.
 
 You may use any tool(s) you want to complete the above tasks. We are particularly interested in R Studio and Tableau at this time.
@@ -33,4 +33,4 @@ There are not any wrong answers or time limits. We use this process to gauge app
 
 ### Submitting your work
 
-This is also open to your interpretation. If you use R, or any other programming languages, please provide your code as either a text document or point us to a github repo. Be sure to include links to any external tools you used (ex: Tableau Public or Google Charts). Word documents, PDFs, HTML docs, and other standard file types are acceptable and any combinations the above are fine. 
+This is also open to your interpretation. If you use R, or any other programming languages, please provide your code as either a text document or point us to a github repo. Be sure to include links to any external tools you used (ex: Tableau Public or Google Charts). Word documents, PDFs, HTML docs, and other standard file types are acceptable and any combinations of the above are fine. 
